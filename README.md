@@ -55,7 +55,7 @@ example_flow()
 
 ## Tutorial
 
-For a larger example, check out the [tutorial](tutorial.md).
+For a larger example, check out the [tutorial](docs/tutorial.md).
 
 ## Resources
 
